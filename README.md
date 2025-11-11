@@ -81,5 +81,5 @@ I'm expanding my knowledge across foundational and cutting-edge technologies:
 <br>
 
 <p align="center">
-    ⭐ <i>“Learn deeply. Build fearlessly. Dream intelligently.”</i>
+    ⭐ <i>“Learn deeply. Build fearlessly. Dream intelligently.”</i>⭐
 </p>
