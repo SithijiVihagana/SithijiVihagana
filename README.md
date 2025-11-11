@@ -1,18 +1,35 @@
-# 👋 Hello World! I'm Sithiji Vihagana
-### Aspiring AI Engineer | CS Student @ UCSC
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+<h1 align="center">Hello World! I'm Sithiji Vihagana👋</h1>
+<h4 align="center">Aspiring AI Engineer | CS Student @ UCSC</h4>
 
 [![Visits](https://komarev.com/ghpvc/?username=SithijiVihagana&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/SithijiVihagana)
 [![GitHub followers](https://img.shields.io/github/followers/SithijiVihagana?style=social&label=Follow&maxAge=2592000)](https://github.com/SithijiVihagana?tab=followers)
 
----
+<table align="center">
+<tr border="none">
+<td width="50%" height="80%" align="left">
+  
+                 🎓 About Me
 
-### 🎓 About Me
+ <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="18"/> **Computer Science Student** at the **University of Colombo School of Computing (UCSC)**.
+ 
+ <img src="https://img.icons8.com/color/48/000000/light-on.png" width="18"/> Passionate about **Artificial Intelligence, Data Science, and Software Engineering**.
+ 
+ <img src="https://img.icons8.com/color/48/000000/rocket.png" width="18"/> Currently focused on **intelligent systems** and strengthening my **programming foundation (DSA)**.
 
-* <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="18"/> **Computer Science Student** at the **University of Colombo School of Computing (UCSC)**.
-* <img src="https://img.icons8.com/color/48/000000/light-on.png" width="18"/> Passionate about **Artificial Intelligence, Data Science, and Software Engineering**.
-* <img src="https://img.icons8.com/color/48/000000/rocket.png" width="18"/> Currently focused on **intelligent systems** and strengthening my **programming foundation (DSA)**.
 
----
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
+
+
 
 ### 🛠️ Core Tech & Learning Path
 
@@ -50,10 +67,6 @@ I'm expanding my knowledge across foundational and cutting-edge technologies:
     </p>
 </details>
 
-<div align="center">
-    <h4>🤖 What I'm working on right now:</h4>
-    <img src="https://raw.githubusercontent.com/SithijiVihagana/github-readme-activity/master/activity-graph.svg" alt="Recent GitHub Activity" width="600"/>
-</div>
 
 ---
 
